@@ -1,0 +1,2 @@
+row.Age=BMI_calc[Name == row.Name && Age == row.Age&& Height == row.Height && Weight == row.Weight&& Gender == row.Gender].Age;
+row.Gender=BMI_calc[Name==row.Name && Age == row.Age&& Height == row.Height && Weight == row.Weight&& Gender == row.Gender].Gender;
